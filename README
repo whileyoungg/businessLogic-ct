@@ -1,8 +1,8 @@
-Business Logic Tournament System
+# Business Logic Tournament System
 
 This project is a Java-based implementation of a tournament system that manages players, matches, and rankings using the Elo rating system. It supports multiple rounds of matches and dynamically updates player scores and rankings based on match results.
 
-Features
+## Features
 
 - **Player Management**: Add players with names, Elo ratings, and countries.
 - **Match Simulation**: Create matches between players and calculate results (win, loss, draw).
